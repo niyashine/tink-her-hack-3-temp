@@ -16,7 +16,7 @@
 ### Project Description
 [2-3 lines about what your project does]
 
-### The Problem statement
+### The Problem Statement
 [What ridiculous problem are you solving?]
 
 ### The Solution
